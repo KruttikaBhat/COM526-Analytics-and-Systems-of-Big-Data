@@ -1,0 +1,5 @@
+10. Data to be recorded on the age of drivers and the number of car accidents per 100 drivers in the year 2019. Populate 100 random values for variables x and y in the range of (25,50) and (10 to 50) respectively where x is the age of drivers and y is the number of car accidents. Plot the data using hexagon binning.
+
+ 11. Let the values for x and y be a sequence of 100 numbers that are evenly spaced within an interval of (-3 to +3). Then plot the contours of Z where    
+
+image.png. z=sqrt(x^2+y^2)
