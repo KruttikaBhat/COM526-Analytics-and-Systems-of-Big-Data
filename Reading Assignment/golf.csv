@@ -1,0 +1,14 @@
+Temperature,Weather,Play
+hot,sunny,no
+hot,overcast,yes
+mild,rainy,yes
+cool,rainy,yes
+cool,rainy,no
+cool,overcast,yes
+mild,sunny,no
+cool,sunny,yes
+mild,rainy,yes
+mild,sunny,yes
+mild,overcast,yes
+hot,overcast,yes
+mild,rainy,no
